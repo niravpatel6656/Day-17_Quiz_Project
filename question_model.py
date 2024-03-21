@@ -5,4 +5,4 @@ class Question():
 
 question1 = Question("5+3","8")
 
-print(question1.answer)
+# print(question1.answer)
